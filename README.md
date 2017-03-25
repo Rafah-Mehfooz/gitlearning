@@ -6,7 +6,4 @@ changemaster
 hello branch
 master
 git branch
-
->>>>>>> deletions
-hello branch
-master
+branch upated
