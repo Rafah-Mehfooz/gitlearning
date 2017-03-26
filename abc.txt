@@ -1,4 +1,8 @@
+html{
+  border:1px solid black;
+}
 body{
   background:red;
   width:100%;
+  margin:0px auto;
 }
